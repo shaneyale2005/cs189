@@ -43,3 +43,4 @@ pip-wheel-metadata/
 # Local datasets and large raw data
 data/
 hw1_part1_data/
+classifier.joblib
