@@ -8,6 +8,7 @@ __pycache__/
 venv/
 env/
 ENV/
+tests/
 
 # Tool and test caches
 .pytest_cache/
@@ -41,4 +42,4 @@ pip-wheel-metadata/
 
 # Local datasets and large raw data
 data/
-hw1_part1_data
+hw1_part1_data/
