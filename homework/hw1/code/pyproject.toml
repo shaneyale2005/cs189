@@ -1,0 +1,14 @@
+[project]
+name = "hw1"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "joblib>=1.5.3",
+    "numpy>=2.4.4",
+    "otter-grader>=6.1.6",
+    "pandas>=3.0.2",
+    "plotly>=6.7.0",
+    "scikit-learn>=1.8.0",
+    "torchvision>=0.26.0",
+]
