@@ -44,3 +44,5 @@ pip-wheel-metadata/
 data/
 hw1_part1_data/
 classifier.joblib
+mlp_fashionmnist_model.joblib
+price_model.joblib
