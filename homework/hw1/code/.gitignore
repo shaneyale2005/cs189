@@ -49,3 +49,6 @@ hw1_part2_data/
 classifier.joblib
 mlp_fashionmnist_model.joblib
 price_model.joblib
+mlp_fashionmnist_rotated_model.joblib
+model_rotation_regression.joblib
+scaler.joblib
